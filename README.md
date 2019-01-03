@@ -1,6 +1,8 @@
 # SLEP: Sparse Learning with Efficient Projections
 
 If you use our code, please cite:
+
+```
 @misc{SLEP,
 
    title = "{SLEP: Sparse Learning with Efficient Projections}",
@@ -12,3 +14,4 @@ If you use our code, please cite:
    year = "2009"
 
 }
+```
